@@ -1,0 +1,69 @@
+. {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    align-items: center;
+}
+
+.banner {
+    padding: 197px 147px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 240px;
+
+}
+
+.banner .profile-pic {
+    width: 635px;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 197px ;
+
+
+
+}
+
+.banner-body {
+    color: rgba(39, 39, 39, 0.60);
+
+    font-size: 18px;
+
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    padding: 20px 43px;
+
+}
+
+.first-pic {
+    width: 635px;
+    height: 800px;
+    padding: 50px ;
+
+}
+.second-head{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+
+}
